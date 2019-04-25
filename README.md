@@ -6,3 +6,7 @@ This project is made by Bakkiyaraj with plain JavaScript.
 Simply run <b>App.js</b> using Webstorm or another IDE.
 I have added the required functionality.
 </pre>
+
+Thank you
+Bakkiyaraj
+<b>Bakkiyarajarc@gmail.com</b>
